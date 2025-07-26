@@ -1,3 +1,4 @@
+<img src="https://res.cloudinary.com/djfzwalgt/image/upload/v1753553568/vas_dewv5j.jpg">
 <h1 align="center">Hi 👋, I'm Srinivasu Botta</h1>
 <h3 align="center">🚀 Artificial Intelligence and Machine Learning Enthusiast</h3>
 
